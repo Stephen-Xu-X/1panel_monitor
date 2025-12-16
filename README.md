@@ -1,4 +1,3 @@
----
 
 # 1Panel Monitor for Scriptable
 
