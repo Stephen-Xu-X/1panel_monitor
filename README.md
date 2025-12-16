@@ -5,7 +5,7 @@ A beautiful, native iOS widget to monitor your 1Panel server status in real-time
 
 一款精美、原生的 iOS 小组件，用于实时监控您的 1Panel 服务器状态。
 
-![Screenshot Placeholder: Cover Image showing Small, Medium, and Large widgets]
+![Uploading d8dbf47f2fc3ad38d1c230add4c5f264.jpg…]()
 
 ---
 
