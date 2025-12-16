@@ -112,7 +112,7 @@ The ultimate dashboard. Displays all metrics plus detailed ISP and location data
 
 终极仪表盘。显示所有指标以及详细的 ISP 和地理位置数据。
 
-`![项目截图](./images/large.png)`
+![项目截图](./images/large.png)
 
 ---
 
