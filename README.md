@@ -96,7 +96,7 @@ Displays a focused CPU usage ring. Perfect for dense home screens.
 
 显示核心 CPU 使用率圆环。非常适合紧凑的主屏幕布局。
 
-`![Screenshot Small Widget]`
+![项目截图](./images/small.png)
 
 ### Medium Widget | 中号组件
 
@@ -104,7 +104,7 @@ Displays CPU, RAM, and Disk usage bars alongside server IP.
 
 显示 CPU、内存和磁盘使用率进度条，以及服务器 IP。
 
-`![Screenshot Medium Widget]`
+![项目截图](./images/medium.png)
 
 ### Large Widget | 大号组件
 
@@ -112,7 +112,7 @@ The ultimate dashboard. Displays all metrics plus detailed ISP and location data
 
 终极仪表盘。显示所有指标以及详细的 ISP 和地理位置数据。
 
-`![Screenshot Large Widget]`
+`![项目截图](./images/large.png)`
 
 ---
 
